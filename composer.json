@@ -1,0 +1,18 @@
+{
+    "name": "bruno/design-patterns-php-factory",
+    "authors": [
+        {
+            "name": "Bruno Juwer",
+            "email": "bruno.juwer1997@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JuwerDev\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+    
+}
